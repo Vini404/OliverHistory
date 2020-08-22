@@ -1,0 +1,28 @@
+    *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-image: url("./assets/background.png");
+  }
+  
+  html,body,#root{
+    height: 100vh;
+  color:#fff;
+  }
+
+  #root{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  
+  body,
+  input,
+  button,
+  textarea{
+      font-family: Roboto;
+      color:#fff;
+      
+  }
+    
